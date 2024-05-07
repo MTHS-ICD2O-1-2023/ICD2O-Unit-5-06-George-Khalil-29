@@ -29,5 +29,5 @@ function multiply() {
     }
   }
 
-  document.getElementById("result").innerHTML = "Result: " + result
+  document.getElementById("result").innerHTML = "Result:" + result 
 }
